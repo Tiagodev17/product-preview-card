@@ -7,11 +7,12 @@
     height:48rem;
     width:30rem;
 }
-.img1{
+.img2{
     background-image: url(images/image-product-mobile.jpg);
-    background-position: center top;
+    background-position: center bottom;
     background-size: cover;
-    background-repeat: no-repeat; 
+    background-repeat: no-repeat;
+    border-radius: 1rem 1rem 0 0; 
 }
 .container-img{
     height:40%;
