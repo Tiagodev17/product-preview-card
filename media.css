@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+@media(max-width:610px){
+.container{
+    display: flex;
+    flex-direction: column;
+    height:48rem;
+    width:30rem;
+}
+.img1{
+    background-image: url(images/image-product-mobile.jpg);
+    background-position: center top;
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
+.container-img{
+    height:40%;
+    width: 100%;
+}
+h1{
+    width: 24rem;
+}
+p{
+    width: 25rem;
+}
+}
